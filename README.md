@@ -1,12 +1,6 @@
-<<<<<<< HEAD
-elixir_shrtnr
-=============
-
-Url shortener app
-=======
 # ElixirShrtnr
 
-This is a project built with Elixir that uses Dynamo to serve web requests.
+Url shortener app
 
 Resources:
 
@@ -16,4 +10,3 @@ Resources:
 * [Dynamo source code](https://github.com/elixir-lang/dynamo)
 * [Dynamo guides](https://github.com/elixir-lang/dynamo#learn-more)
 * [Dynamo docs](http://elixir-lang.org/docs/dynamo)
->>>>>>> first commit
